@@ -1,0 +1,12 @@
+Day 1 – OSI Model Overview
+
+Layers (Top to Bottom):
+1. Application - Shows to user's eyes
+2. Presentation - Application encryption (SSL/TLS)
+3. Session - Control and Tunneling protocol
+4. Transport - TCP (transmission control protocol) , UDP (user datagram protocol)
+5. Network - Router, IP Address, Packets
+6. Data Link - Switch, Frame, MAC
+7. Physical - Cables, Fiber , signal
+
+
